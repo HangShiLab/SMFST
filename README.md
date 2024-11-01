@@ -4,7 +4,7 @@ Single-Molecule Force Spectroscopy Toolkit (SMFST), a powerful tool used to stud
 
 When using our software in a research project, there is no need to list us as the corresponding author of the article, just mention it explicitly in the acknowledgements section.
 
-We are also constantly working on bug improvements, so please contact us if you would like to get the latest version of the software.
+We are constantly optimizing and upgrading the software, so please contact us if you would like to get the latest version of the software.
 
 Our Email:
 
